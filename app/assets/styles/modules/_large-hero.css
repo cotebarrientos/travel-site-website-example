@@ -46,9 +46,9 @@
         max-width: 30rem;
         margin-right: auto;
         margin-left: auto;
-    }
 
-    @mixin atSmall {
-        font-size: 1.875rem;
+        @mixin atSmall {
+            font-size: 1.875rem;
+        }
     }
 }
