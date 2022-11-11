@@ -18,7 +18,6 @@ class StickyHeader {
     }
 
     runOnScroll() {
-
         this.determineScrollDirection()
 
         if(window.scrollY > 60) {
