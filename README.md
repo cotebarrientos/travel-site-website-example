@@ -1,6 +1,10 @@
 # Travel Site Agency
 
+![Mockups](https://github.com/cotebarrientos/travel-site-website-example/blob/main/doc-img/travel-site-mockup.jpg?raw=true)
+
 This project consists of a fictional website, which uses *postcss, webpack, normalize.css, JavaScript* among other technologies.
+
+**You can visit this website by clicking [here](https://cotebarrientos.github.io/travel-site-website-example/).**
 
 
 ## Deployment
