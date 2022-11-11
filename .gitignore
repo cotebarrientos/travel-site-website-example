@@ -17,7 +17,6 @@ node_modules/
 desktop.ini
 
 # Temporarily ignored
-bundled.js
 package-lock.json 
 
 # OS or Editor folders
